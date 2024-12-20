@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Homescreen extends StatelessWidge {
+class Homescreen extends StatelessWidget {
   static const String routName = 'Home';
 
   @override
